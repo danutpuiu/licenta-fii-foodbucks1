@@ -1,0 +1,14 @@
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\bin\Debug\netcoreapp2.1\Foodbucks.deps.json
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\bin\Debug\netcoreapp2.1\Foodbucks.runtimeconfig.json
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\bin\Debug\netcoreapp2.1\Foodbucks.runtimeconfig.dev.json
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\bin\Debug\netcoreapp2.1\Foodbucks.dll
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\bin\Debug\netcoreapp2.1\Foodbucks.pdb
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.csprojAssemblyReference.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.csproj.CoreCompileInputs.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.RazorAssemblyInfo.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.RazorAssemblyInfo.cs
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.AssemblyInfoInputs.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.AssemblyInfo.cs
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.RazorTargetAssemblyInfo.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.dll
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks-API\Foodbucks\Foodbucks\obj\Debug\netcoreapp2.1\Foodbucks.pdb
