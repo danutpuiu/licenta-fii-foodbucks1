@@ -1,0 +1,1 @@
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\Data.Persistence\obj\Debug\Data.Persistence.csproj.CoreCompileInputs.cache

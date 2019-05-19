@@ -1,0 +1,2 @@
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\Data.Domain\obj\Debug\Data.Domain.csproj.CoreCompileInputs.cache
