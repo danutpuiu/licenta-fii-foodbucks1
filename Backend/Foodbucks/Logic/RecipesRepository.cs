@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Logic
 {
-    class RecipesRepository : GenericRepository<Recipe>, IRecipesRepository
+    public class RecipesRepository : GenericRepository<Recipe>, IRecipesRepository
     {
         private readonly IDatabaseContext _databaseContext;
         private readonly IInstructionsRepository _instructionsRepository;

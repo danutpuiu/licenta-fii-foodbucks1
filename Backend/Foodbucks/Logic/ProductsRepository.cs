@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Logic
 {
-    class ProductsRepository : GenericRepository<Product>, IProductsRepository
+    public class ProductsRepository : GenericRepository<Product>, IProductsRepository
     {
         private readonly IDatabaseContext _databaseContext;
         private readonly IStoresRepository _storesRepository;

@@ -1,3 +1,21 @@
 
 Backend/Foodbucks/.vs/Foodbucks/v15/Server/sqlite3/db.lock
 Backend/Foodbucks-API/Foodbucks/.vs/Foodbucks/v15/.suo
+Backend/Foodbucks/.vs/Foodbucks/v15/.suo
+*.ide
+Backend/Foodbucks/.vs/Foodbucks/v15/Server/sqlite3/storage.ide
+*.dll
+*.p7s
+Backend/Foodbucks/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml
+Backend/Foodbucks/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml
+Backend/Foodbucks/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml
+Backend/Foodbucks/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/LICENSE.TXT
+Backend/Foodbucks/packages/System.Numerics.Vectors.4.5.0/ref/xamarinios10/_._
+*._
+*.p7s
+*.dll
+Backend/Foodbucks/packages/System.Runtime.CompilerServices.Unsafe.4.5.1/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+Backend/Foodbucks/packages/System.Runtime.CompilerServices.Unsafe.4.5.1/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml
+*.nupkg
+*.nupkg
+*.pdb

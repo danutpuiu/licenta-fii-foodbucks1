@@ -1,0 +1,6 @@
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\FoodbucksWebApp\obj\Debug\netcoreapp2.1\FoodbucksWebApp.csprojAssemblyReference.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\FoodbucksWebApp\obj\Debug\netcoreapp2.1\FoodbucksWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\FoodbucksWebApp\obj\Debug\netcoreapp2.1\FoodbucksWebApp.RazorAssemblyInfo.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\FoodbucksWebApp\obj\Debug\netcoreapp2.1\FoodbucksWebApp.RazorAssemblyInfo.cs
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\FoodbucksWebApp\obj\Debug\netcoreapp2.1\FoodbucksWebApp.AssemblyInfoInputs.cache
+C:\Users\Danut\Desktop\Licenta\licenta-fii-foodbucks\Backend\Foodbucks\FoodbucksWebApp\obj\Debug\netcoreapp2.1\FoodbucksWebApp.AssemblyInfo.cs
