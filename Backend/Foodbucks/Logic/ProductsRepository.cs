@@ -25,6 +25,16 @@ namespace Logic
             throw new NotImplementedException();
         }
 
+        public Task<bool> Exists(string name)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<bool> Exists(string name, string measurementUnit)
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<IEnumerable<Product>> GetByName(string name)
         {
             throw new NotImplementedException();

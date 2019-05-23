@@ -9,5 +9,7 @@ namespace Data.Domain.Interfaces
         Task AddProductCustom(string name, string brand, double quantity, string unitOfMeasurement);
         Task<IEnumerable<Product>> GetByName(string name);
         Task<Product> GetByNameAndBrand(string name, string brand);
+        Task<bool> Exists(string name);
+        Task<bool> Exists(string name, string measurementUnit);
     }
 }
